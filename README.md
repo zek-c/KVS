@@ -1,2 +1,1 @@
-# kvs
-KVS: Kernel Version Switcher, made to easily switch the tpm_kernver for Chromebooks.
+WORST fucking thing ever made. kxtz you SUCK 
